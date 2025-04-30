@@ -7,7 +7,7 @@
 ### Architecture of ATUIQP
 
 <picture>
-  <center><img src="assets/Architecture.png"  width="80%"/></center>
+  <img src="assets/Architecture.png"  width="80%"  style="margin:auto;"/>
 </picture>
 
 ### Predict code of ATUIQP
