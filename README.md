@@ -5,7 +5,7 @@
 📚[Paper](https://ieeexplore.ieee.org/document/10452874)
 
 ### Predict code of ATUIQP
-Please download 'model_epoch_10.pth'from [Baidu Netdisk](https://pan.baidu.com/s/1N_8a5Vs1PK2nXWzNGXd2YQ?pwd=7777).
+You can download 'model_epoch_10.pth' from [Baidu Netdisk](https://pan.baidu.com/s/1N_8a5Vs1PK2nXWzNGXd2YQ?pwd=7777).
 
 ### Citation
 
