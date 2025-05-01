@@ -1,6 +1,6 @@
 # ATUIQPv2
 
-Add 'deit_3_small_224_1k.pth' weights for encoder of ATUIQP.
+Mainly added 'deit_3_small_224_1k.pth' weights for encoder layer of ATUIQP.
 
 ## Underwater Image Quality Assessment: Benchmark Database and Objective Method
 
