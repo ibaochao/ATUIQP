@@ -1,17 +1,19 @@
-# ATUIQP
+# ATUIQPv2
+
+Add 'deit_3_small_224_1k.pth' weights for encoder of ATUIQP.
 
 ## Underwater Image Quality Assessment: Benchmark Database and Objective Method
 
 📚[Paper](https://ieeexplore.ieee.org/document/10452874)
 
-### Architecture of ATUIQP
+### Architecture of ATUIQPv2
 
 <picture>
   <img src="assets/Architecture.png" style="margin: 0 auto; width: 80%;" />
 </picture>
 
-### Testing prediction code of ATUIQP
-You can download 'model_epoch_10.pth' from [Baidu Netdisk](https://pan.baidu.com/s/1N_8a5Vs1PK2nXWzNGXd2YQ?pwd=7777).
+### Testing prediction code of ATUIQPv2
+You can download 'model_epoch_10.pth' and 'deit_3_small_224_1k.pth' from [Baidu Netdisk](https://pan.baidu.com/s/1sGj9S42AzV8-fFdM1HibLg?pwd=7777).
 
 ### Citation
 
