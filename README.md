@@ -12,7 +12,7 @@ Modified.
   <img src="assets/Architecture.png" style="margin: 0 auto; width: 80%;" />
 </picture>
 
-### Testing prediction code of ATUIQP
+### Test prediction code of ATUIQP
 You can download 'model_epoch_10.pth' from [Baidu Netdisk](https://pan.baidu.com/s/1N_8a5Vs1PK2nXWzNGXd2YQ?pwd=7777).
 
 ### Citation
