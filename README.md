@@ -12,7 +12,7 @@ Mainly added 'deit_3_small_224_1k.pth' weights for encoder layer of ATUIQP.
   <img src="assets/Architecture.png" style="margin: 0 auto; width: 80%;" />
 </picture>
 
-### Testing prediction code of ATUIQPv2
+### Test prediction code of ATUIQPv2
 You can download 'model_epoch_10.pth' and 'deit_3_small_224_1k.pth' from [Baidu Netdisk](https://pan.baidu.com/s/1sGj9S42AzV8-fFdM1HibLg?pwd=7777).
 
 ### Citation
